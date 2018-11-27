@@ -1,0 +1,2 @@
+Ion_Proton_dataset_genotypes.tsv and Illumina_dataset.tsv contain respectively the 264,303 variants of the Ion Proton dataset and the 124,935 variants of the Illumina dataset. For each variant I reported the chromosome, the genomic position, the reference allele and the alternative allele. For the Ion Proton dataset I reported also the number of alleles that present the alternative allele in the 222 exome and the number of exomes that present the alternative allele.
+  
